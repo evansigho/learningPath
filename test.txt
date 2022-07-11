@@ -1,1 +1,11 @@
 hah https://github.com/evansigho/learningPath.git
+ommand line Git access
+Desktop applications using Git (GitHub Desktop is unaffected)
+Any apps/services that access Git repositories on GitHub.com directly using your password
+The following customers remain unaffected by this change:
+
+If you have two-factor authentication enabled for your account, you are 
+already required to use token- or SSH-based authentication.
+If you use GitHub Enterprise Server, we have not announced any changes
+ to our on-premises offering.
+If you maintain a GitHub App, GitHub Apps do not support password
